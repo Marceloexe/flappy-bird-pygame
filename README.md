@@ -13,6 +13,15 @@ O projeto foi construído durante um curso prático realizado aos sábados no SE
 
 ## 🎮 Como Executar
 1. Certifique-se de ter o Python instalado na sua máquina.
+
 2. Clone este repositório:
    ```bash
-  git clone [https://github.com/Marceloexe/flappy-bird-pygame.git](https://github.com/Marceloexe/flappy-bird-pygame.git)
+   git clone https://github.com/Marceloexe/flappy-bird-pygame.git
+
+3. Instale a biblioteca necessária:
+   ```bash
+   pip install pygame
+
+4. Execute o arquivo principal do jogo:
+   ```bash
+   python FlappyBird.py

@@ -1,6 +1,6 @@
 # 🐦 Flappy Bird - Clone em Pygame
 
-![Print da tela do jogo Flappy Bird](print-jogo.png)
+![Print da tela do jogo Flappy Bird](print-jogo.png.png)
 
 ## 📝 Sobre o Projeto
 Este é um clone do clássico jogo Flappy Bird, desenvolvido em **Python** utilizando a biblioteca **Pygame**. 
